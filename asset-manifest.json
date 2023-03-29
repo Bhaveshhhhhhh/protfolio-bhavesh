@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/protfolio-bhavesh/static/css/main.c14c631f.css",
+    "main.js": "/protfolio-bhavesh/static/js/main.51b37184.js",
+    "static/media/react.png": "/protfolio-bhavesh/static/media/react.6e096c5486488bfa51b1.png",
+    "static/media/logo.png": "/protfolio-bhavesh/static/media/logo.f29b80bc70c2bf5575c2.png",
+    "static/media/css.png": "/protfolio-bhavesh/static/media/css.0c13c5cecd566fbab673.png",
+    "static/media/html.png": "/protfolio-bhavesh/static/media/html.68a0575ad03998b35b3d.png",
+    "static/media/node.webp": "/protfolio-bhavesh/static/media/node.4e97577b981eca678bfe.webp",
+    "static/media/javascript.png": "/protfolio-bhavesh/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "static/media/github.webp": "/protfolio-bhavesh/static/media/github.9707da1135f069a19c4e.webp",
+    "index.html": "/protfolio-bhavesh/index.html",
+    "main.c14c631f.css.map": "/protfolio-bhavesh/static/css/main.c14c631f.css.map",
+    "main.51b37184.js.map": "/protfolio-bhavesh/static/js/main.51b37184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14c631f.css",
+    "static/js/main.51b37184.js"
+  ]
+}
