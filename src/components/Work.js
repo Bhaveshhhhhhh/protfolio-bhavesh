@@ -34,7 +34,7 @@ const Work = () => {
           <a href="https://bhavesh-portfolioo.netlify.app/">
             <div className="shadow-md shadow-[#aeb2b9] hover:scale-110 duration-300">
               <img className="w-70 mx-auto" src={f} alt="f icon" />
-              <p className="my-4">ProtFolio WebApp</p>
+              <p className="my-4">PortFolio WebApp</p>
             </div>
           </a>
           <a href="https://right-master-facts.netlify.app/">
