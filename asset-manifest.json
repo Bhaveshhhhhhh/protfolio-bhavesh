@@ -1,7 +1,11 @@
 {
   "files": {
-    "main.css": "/protfolio-bhavesh/static/css/main.c14c631f.css",
-    "main.js": "/protfolio-bhavesh/static/js/main.51b37184.js",
+    "main.css": "/protfolio-bhavesh/static/css/main.c76b964c.css",
+    "main.js": "/protfolio-bhavesh/static/js/main.36397f57.js",
+    "static/media/t.png": "/protfolio-bhavesh/static/media/t.60fb4dad166f4569a6fa.png",
+    "static/media/s.png": "/protfolio-bhavesh/static/media/s.08339e6da8e992e021f2.png",
+    "static/media/fth.png": "/protfolio-bhavesh/static/media/fth.504b8354bfe30347339c.png",
+    "static/media/f.png": "/protfolio-bhavesh/static/media/f.f222e5c9c7dd49d78477.png",
     "static/media/react.png": "/protfolio-bhavesh/static/media/react.6e096c5486488bfa51b1.png",
     "static/media/logo.png": "/protfolio-bhavesh/static/media/logo.f29b80bc70c2bf5575c2.png",
     "static/media/css.png": "/protfolio-bhavesh/static/media/css.0c13c5cecd566fbab673.png",
@@ -10,11 +14,11 @@
     "static/media/javascript.png": "/protfolio-bhavesh/static/media/javascript.266bd9fb2663dcc057b4.png",
     "static/media/github.webp": "/protfolio-bhavesh/static/media/github.9707da1135f069a19c4e.webp",
     "index.html": "/protfolio-bhavesh/index.html",
-    "main.c14c631f.css.map": "/protfolio-bhavesh/static/css/main.c14c631f.css.map",
-    "main.51b37184.js.map": "/protfolio-bhavesh/static/js/main.51b37184.js.map"
+    "main.c76b964c.css.map": "/protfolio-bhavesh/static/css/main.c76b964c.css.map",
+    "main.36397f57.js.map": "/protfolio-bhavesh/static/js/main.36397f57.js.map"
   },
   "entrypoints": [
-    "static/css/main.c14c631f.css",
-    "static/js/main.51b37184.js"
+    "static/css/main.c76b964c.css",
+    "static/js/main.36397f57.js"
   ]
 }
