@@ -1,9 +1,9 @@
 import React from "react";
 
-import f from "../assets/f.png";
 import fth from "../assets/fth.png";
-import s from "../assets/s.png";
-import t from "../assets/t.png";
+import mba from "../assets/mba.png";
+import netflix from "../assets/netflix.png";
+import rmy from "../assets/rmy.png";
 
 const Work = () => {
   return (
@@ -19,28 +19,31 @@ const Work = () => {
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-2 gap-4 text-center py-8">
+          <a href="https://mba-burgerwala-frontend.netlify.app/" target="blank">
+            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-300">
+              <img className="w-70 mx-auto" src={mba} alt="fth icon" />
+              <p className="my-4">MBA BurgerWala WebApp</p>
+            </div>
+          </a>
+          <a href="https://right-master-factss.netlify.app/" target="blank">
+            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-300">
+              <img className="w-70 mx-auto" src={rmy} alt="fth icon" />
+              <p className="my-4">RightMasterYoutube WebApp</p>
+            </div>
+          </a>
+          <a
+            href="https://netflix-colne-iambhaveshh.netlify.app/"
+            target="blank"
+          >
+            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-300">
+              <img className="w-70 mx-auto" src={netflix} alt="fth icon" />
+              <p className="my-4">Netflix Clone</p>
+            </div>
+          </a>
           <a href="https://cryptoapp-bhavesh.netlify.app/" target="blank">
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-300">
               <img className="w-70 mx-auto" src={fth} alt="fth icon" />
               <p className="my-4">BitCoin WebApp</p>
-            </div>
-          </a>
-          <a href="https://responsive-techstarapp.netlify.app/" target="blank">
-            <div className="shadow-md shadow-[#aeb2b9] hover:scale-110 duration-300">
-              <img className="w-70 mx-auto" src={s} alt="s icon" />
-              <p className="my-4">TechStar WebApp</p>
-            </div>
-          </a>
-          <a href="https://bhavesh-portfolioo.netlify.app/">
-            <div className="shadow-md shadow-[#aeb2b9] hover:scale-110 duration-300">
-              <img className="w-70 mx-auto" src={f} alt="f icon" />
-              <p className="my-4">PortFolio WebApp</p>
-            </div>
-          </a>
-          <a href="https://right-master-facts.netlify.app/">
-            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-300">
-              <img className="w-70 mx-auto" src={t} alt="t icon" />
-              <p className="my-4">RightMaster YT WebApp</p>
             </div>
           </a>
         </div>
