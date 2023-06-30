@@ -3,7 +3,7 @@ import React from "react";
 import fth from "../assets/fth.png";
 import mba from "../assets/mba.png";
 import netflix from "../assets/netflix.png";
-import rmy from "../assets/rmy.png";
+import rmy1 from "../assets/rmy1.png";
 
 const Work = () => {
   return (
@@ -25,10 +25,10 @@ const Work = () => {
               <p className="my-4">MBA BurgerWala WebApp</p>
             </div>
           </a>
-          <a href="https://right-master-factss.netlify.app/" target="blank">
+          <a href="https://online-learing-platform.netlify.app/" target="blank">
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-300">
-              <img className="w-70 mx-auto" src={rmy} alt="fth icon" />
-              <p className="my-4">RightMasterYoutube WebApp</p>
+              <img className="w-70 mx-auto" src={rmy1} alt="fth icon" />
+              <p className="my-4">CourseBundler WebApp</p>
             </div>
           </a>
           <a
